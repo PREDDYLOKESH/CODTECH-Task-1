@@ -1,9 +1,9 @@
 # CODTECH-Task-1
 ##TO -DO LIST WEB APPLICATION##
 
-**Name:** Syamtan Sai Yadav Bontha
+**Name:** PEDSDA REDDY GARI REDDY LOKESH
 **Company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS5312
+**ID:** CT08DS5216
 **Domain:** Web Development
 **Duration:** from JULY 20th, 2024 to AUGUST 20th, 2024.
 
